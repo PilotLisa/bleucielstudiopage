@@ -1,13 +1,16 @@
 #bleucielstudiopage
 
 BLEUCEILSTUDIO OFFICIAL WEBSITE
-PROJECT CONTRIBUTORS
-PILOT LISA, YULIN CHEN
 
-Twenty by HTML5 UP
+PROJECT CONTRIBUTORS: 
+
+PILOT LISA, Martian
+
+This site based on Twenty by HTML5 UP
+
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 This is Twenty, a minimal, multi-page responsive site template for HTML5 UP.
 
