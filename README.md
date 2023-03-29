@@ -6,7 +6,7 @@ PROJECT CONTRIBUTORS:
 
 [PILOT LISA](https://www.github.com/PilotLisa/)
 
-[Martian](https://www.github.com/Martian-Taiwan)
+[Elliot](https://www.github.com/ElliotCHEN37)
 
 This site based on Twenty by HTML5 UP
 
